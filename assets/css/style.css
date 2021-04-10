@@ -43,3 +43,7 @@ h1{
     display: none;
     width: 100%;
 }
+
+#wordDiv{
+    white-space: pre-wrap;
+}
