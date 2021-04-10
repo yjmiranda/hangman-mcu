@@ -9,4 +9,3 @@ var guessesLeft = 11;
 var guessList = [];
 var guessTracker = {};
 
-console.log(movies);
