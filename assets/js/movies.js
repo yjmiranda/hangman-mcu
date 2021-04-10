@@ -12,7 +12,7 @@ var movies =
     },
     {
         name: "IRON MAN 2",
-        img: "assets/images/the-incredible-hulk.jpg",
+        img: "assets/images/iron-man-2.jpg",
         id: 2
     },
     {
